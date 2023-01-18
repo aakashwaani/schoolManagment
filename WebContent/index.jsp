@@ -12,6 +12,7 @@
 	<jsp:include page="./allcomponents/sidebar.jsp"></jsp:include>
 	<div class="page-wrapper">
 		<div class="content container-fluid"></div>
+		oshdjksh
 	</div>
 
 	<jsp:include page="./allcomponents/footer.jsp"></jsp:include>
