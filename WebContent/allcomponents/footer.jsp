@@ -2,7 +2,7 @@
 	pageEncoding="ISO-8859-1"%>
 
 <footer>
-	<p>Copyright © 2022 Dreamguys.</p>
+	
 </footer>
 
 

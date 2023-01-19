@@ -3,10 +3,10 @@
 
             <div class="header-left">
                 <a href="index.html" class="logo">
-                    <img src="assets/img/logo.png" alt="Logo">
+                    <img src="" alt="Logo">
                 </a>
                 <a href="index.html" class="logo logo-small">
-                    <img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
+                    <img src="" alt="Logo" width="30" height="30">
                 </a>
             </div>
 
@@ -30,23 +30,7 @@
 
 
             <ul class="nav user-menu">
-                <li class="nav-item dropdown noti-dropdown language-drop me-2">
-                    <a href="#" class="dropdown-toggle nav-link header-nav-list" data-bs-toggle="dropdown">
-                        <img src="assets/img/icons/header-icon-01.svg" alt="">
-                    </a>
-                    <div class="dropdown-menu ">
-                        <div class="noti-content">
-                            <div>
-                                <a class="dropdown-item" href="javascript:;"><i
-                                        class="flag flag-lr me-2"></i>English</a>
-                                <a class="dropdown-item" href="javascript:;"><i
-                                        class="flag flag-bl me-2"></i>Francais</a>
-                                <a class="dropdown-item" href="javascript:;"><i class="flag flag-cn me-2"></i>Turkce</a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-
+                
                 <li class="nav-item dropdown noti-dropdown me-2">
                     <a href="#" class="dropdown-toggle nav-link header-nav-list" data-bs-toggle="dropdown">
                         <img src="assets/img/icons/header-icon-05.svg" alt="">
@@ -162,7 +146,7 @@
                             </div>
                         </div>
                         <a class="dropdown-item" href="profile.html">My Profile</a>
-                        <a class="dropdown-item" href="inbox.html">Inbox</a>
+                        
                         <a class="dropdown-item" href="login.html">Logout</a>
                     </div>
                 </li>
